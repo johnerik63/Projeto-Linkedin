@@ -1,0 +1,12 @@
+print("Desafio 1")
+
+# Uma mensagem para o usuario 
+mensagem = "Esta é a minha mensagem" 
+observação = "Favor prosseguir" 
+print(mensagem)
+
+#executar a operação matemática
+resultado = 2*3
+print(resultado)
+
+print("Desafio concluído!")
