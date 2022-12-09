@@ -1,0 +1,6 @@
+def diga_ola(nome):
+    print(f"Olá, {nome}!")
+
+diga_ola("Maria")
+diga_ola("Jose")
+diga_ola("Andreia")
