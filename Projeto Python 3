@@ -1,0 +1,4 @@
+estou_me_divertindo = "sim"
+
+if (estou_me_divertindo == "sim"):
+print("Que bom que você está se divertindo.")
