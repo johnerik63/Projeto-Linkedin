@@ -1,0 +1,7 @@
+# Pontuação do usuário
+pontuacao = 750
+print(pontuacao)
+
+# Meu  lanche favorito
+lanche_favorito = "Biscoitos"
+print(lanche_favorito)
